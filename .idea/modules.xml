@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ADOs_Aula/ADOs_Aula.iml" filepath="$PROJECT_DIR$/ADOs_Aula/ADOs_Aula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Algoritimo_senac.iml" filepath="$PROJECT_DIR$/.idea/Algoritimo_senac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista de Exercicios/Lista de Exercicios.iml" filepath="$PROJECT_DIR$/Lista de Exercicios/Lista de Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula3/aula3.iml" filepath="$PROJECT_DIR$/aula3/aula3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula4/aula4.iml" filepath="$PROJECT_DIR$/aula4/aula4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula5/aula5.iml" filepath="$PROJECT_DIR$/aula5/aula5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
